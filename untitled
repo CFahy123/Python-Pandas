@@ -1,0 +1,7 @@
+# create a four item Series
+import numpy as np
+import pandas as pd
+from pandas import DataFrame, Series
+s = Series([1, 2, 3, 4]) 
+s
+
